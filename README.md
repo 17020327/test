@@ -51,3 +51,16 @@ ACPF-1702	task→story	ACPF-1218
 ACPF-1705	task→story	ACPF-1352
 ACPF-1707	task→story	ACPF-1015 
 
+２．斉藤さん
+Ariake Commerce PlatformACPF-1927　説明
+
+1]税種類：州・れんばん・HST
+2]画面表示
+
+代行注文時、減税できない→原住民には州税を減税、紙で証明で減税になり
+
+
+
+
+
+
