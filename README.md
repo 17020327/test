@@ -28,6 +28,26 @@ Admin S3　　　　　　　　→
 ３．
 
 
+20171225
+作業内容：
+1．Sprint2.1　ステータス確認
+story:
+ACPF-1835	1.5設計完了　　→課題があり、CSVのアップロード先未定
+ACPF-1953	1.5設計完了　　→課題があり、キャンセルできるかどうか
+ACPF-1992	1.5設計完了
+ACPF-1836	2.1設計中　　　→LINA
+ACPF-504	ストーリ説明まだしていない　→設計未着手
+ACPF-1536	メニュー権限
+ACPF-1763	画面項目の表示権限、操作権限
+task:
+ACPF-1696	task→story	ACPF-1217
+ACPF-1697	task→story	ACPF-1216 
+ACPF-1701	task→story	ACPF-1218
+ACPF-1704	task→story	ACPF-1352
+ACPF-1706	task→story	ACPF-1015
+ACPF-1695	task→story	ACPF-1217
+ACPF-1699	task→story	ACPF-1216
+ACPF-1702	task→story	ACPF-1218
+ACPF-1705	task→story	ACPF-1352
+ACPF-1707	task→story	ACPF-1015 
 
-
-test1
